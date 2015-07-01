@@ -1,0 +1,22 @@
+{
+  "name": "rserve-failure",
+  "version": "1.0.0",
+  "description": "Sample to show rserve-failure in DeployR and scaleR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swells/rserve-failure.git"
+  },
+  "author": "Sean Wells <sean.wells.sc@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swells/rserve-failure/issues"
+  },
+  "homepage": "https://github.com/swells/rserve-failure",
+  "dependencies": {
+    "deployr": "^7.4.1"
+  }
+}
