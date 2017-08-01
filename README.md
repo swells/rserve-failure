@@ -15,4 +15,3 @@
 1. Change `ENDPOINT` value to point to DeployR (ex) `http://dhost:7400` inside `index.js`
 2. By default it uses *username* `testuser` and the default *password* `changeme`.
 3. $ node index.js
-
